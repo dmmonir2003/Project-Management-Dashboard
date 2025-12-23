@@ -4,7 +4,6 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.0.4-yellow.svg)](https://vitejs.dev/)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A comprehensive **Project Management Dashboard** built with modern web technologies to streamline construction and project-based workflows. This application provides role-based access control for administrators, clients, and labor, enabling efficient project tracking, expense management, reporting, and collaboration.
 
@@ -70,12 +69,26 @@ A comprehensive **Project Management Dashboard** built with modern web technolog
 
 ## 📸 Screenshots
 
-_(Add screenshots here to showcase the dashboard, project details, and key features.)_
+_(Add screenshots here to showcase the dashboard, project details, and key features ..)_
 
 - Dashboard Overview
 - Project Management Interface
 - Expense Tracking Module
 - Report Generation
+
+## 🌐 Live Demo
+
+Experience the live application:
+
+- **Dashboard Link**: [http://52.44.187.49:5173/login](http://52.44.187.49:5173/login)
+- **Backend API**: [http://52.44.187.49:5001/](http://52.44.187.49:5001/)
+
+### Demo Credentials
+
+- **Super Admin Email**: simone@themvv.co.uk
+- **Password**: superAdmin12345
+
+_Use these credentials to explore the full functionality of the dashboard._
 
 ## 🚀 Installation
 
@@ -137,26 +150,13 @@ _(Add screenshots here to showcase the dashboard, project details, and key featu
 
 For detailed API integration, ensure your backend is running and update `VITE_API_URL` in the environment variables.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch: `git checkout -b feature/your-feature`.
-3. Commit your changes: `git commit -m 'Add some feature'`.
-4. Push to the branch: `git push origin feature/your-feature`.
-5. Open a pull request.
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📧 Contact
 
-- **Author**: Ahmad Musa Vai
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Author**: Md Moniruzzaman
+- **Email**: [mdmoniruzzamanshuvo2003@gmail.com
+  ](mailto:mdmoniruzzamanshuvo2003@gmail.com)
+- **LinkedIn**: [Md Moniruzzaman](https://linkedin.com/in/dmmonir2003)
+- **GitHub**: [dmmonir2003](https://github.com/dmmonir2003)
 
 ---
 
